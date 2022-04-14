@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "title 1",
+            "userId": 1,
+            "body": "body",
+            "postImageUrl": "https://picsum.photos/1280/960"
+        },
+        {
+            "id": 2,
+            "title": "title 2",
+            "userId": 2,
+            "body": "body 2",
+            "postImageUrl": "https://picsum.photos/1280/960"
+        }
+    ],
+    "users": []
+}
